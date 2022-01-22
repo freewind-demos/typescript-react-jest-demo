@@ -1,11 +1,10 @@
-TypeScript React "react-testing-library" Demo
+TypeScript React Jest Demo
 =============================================
 
-如何使用jest和`react-testing-library`来测试react component的行为。
-
-`react-testing-library`已经迁移到`@testing-library/react`
+Jest+typescript+react下的常用设置
 
 ```
 npm install
+npm run demo
 npm run test
 ```
